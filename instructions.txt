@@ -1,0 +1,13 @@
+este projeto tem com função:
+ativar a matriz de LED da placa Arduino Uno R4, a partir do reconhecimento de um cartão codificado. 
+o reconhecimento da tag no cartão é feito com o dispositivo RFID (Radio-Frequency Identification).
+
+elementos utilizados:
+
+- cabos jumper;
+- placa Arduino Uno R4;
+- dispositivo RFID;
+- cartão/tag do RFID;
+
+o código para configuração da placa foi implementado para testes e entendimento acerca das funcionalidades 
+dos materiais de hardware utilizado.
