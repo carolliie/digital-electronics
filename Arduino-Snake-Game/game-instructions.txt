@@ -7,3 +7,6 @@ o código para o projeto pode ser modificado e permite reduzir a velocidade e di
 
 este programa foi utilizado para testes e estudos sobre os elementos que compõem o sistema do jogo, 
 são eles: placa Arduino Nano, Matrix de LED 8x8 e Joystick analógico. 
+
+para entender melhor sobre o circuito e funcionamento do código, assista o vídeo de demonstração do projeto:
+https://drive.google.com/file/d/1cgFfdw808odiAxEhuP3ZNBjo42-PkIBf/view?usp=sharing
