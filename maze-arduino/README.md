@@ -2,7 +2,7 @@
 
 <h3>Projeto</h3>
 
-<p>O mini-jogo, cosntruído com materiais recicláveis e elementos de hardware, simula um pequeno labirinto, que tem como vencedor o jogador que conseguir levar a bolinha ao outro lado do labirinto (chegada), movimentando a estrutura com um joystick.</p>
+<p>O mini-jogo, construído com materiais recicláveis e elementos de hardware, simula um pequeno labirinto, que tem como vencedor o jogador que conseguir levar a bolinha ao outro lado do labirinto (chegada), movimentando a estrutura com um joystick.</p>
 
 <p>O jogo possui algumas dificuldades acerca da movimentação, os problemas são encontrados na estrutura do labirinto e na programação dos servomotores, que devem ser trabalhados futuramente.</p>
 
