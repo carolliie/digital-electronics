@@ -20,6 +20,6 @@
 
 
 <p></br>Demais projetos serão inclusos no repositório ao longo do semestre. </p>
-<p>Para ver mais projetos, verifique os outros repositórios no meu GitHub. 💢</p> 
+<p>Para ver mais, verifique os outros repositórios no meu GitHub. 💢</p> 
 
 <img loading="lazy" src="https://i.pinimg.com/originals/c2/d0/01/c2d001a4799453ba6060a0433338810b.gif"/>
