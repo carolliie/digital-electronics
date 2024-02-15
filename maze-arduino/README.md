@@ -37,11 +37,11 @@
 </br>
 
 <h4>Referências </h4>
-<p><a href="https://www.instructables.com/Arduino-Marble-Maze-Labyrinth/">Projeto original e Código fonte. ✔️</a></p>
+<p><a href="https://www.instructables.com/Arduino-Marble-Maze-Labyrinth/">Projeto original e Código fonte.</a> ✔️</p>
 
 
 
-<p>Para ver o funcionamento do circuito, <a href="https://drive.google.com/file/d/17RCyE89-5Kfp88HpgxIV5gNd-afq49nh/view?usp=sharing">clique aqui. 🎥</a></p>
+<p>Para ver o funcionamento do circuito, <a href="https://drive.google.com/file/d/17RCyE89-5Kfp88HpgxIV5gNd-afq49nh/view?usp=sharing">clique aqui.</a> 🎥</p>
 
 </br>
 
