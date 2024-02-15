@@ -37,7 +37,7 @@
 </br>
 
 <h4>Referências </h4>
-<p><a href="https://www.instructables.com/Arduino-Marble-Maze-Labyrinth/">Projeto original e Código fonte.</a> ✔️</p>
+<p><a href="https://www.instructables.com/Arduino-Marble-Maze-Labyrinth/">Projeto original e Código fonte - Arduino Marble Cardboard Maze Labyrinth.</a> ✔️</p>
 
 
 
