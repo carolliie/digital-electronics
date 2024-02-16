@@ -1,6 +1,6 @@
-<h1>Snake Game 🐍</h1>
+# Snake Game 🐍
 
-<h3>Projeto</h3>
+## Projeto
 
 <p>O jogo Snake-Game tem como objetivo controlar uma pequena cobra em direção a uma maçã, localizada pelo mapa definido.</p>
 
@@ -9,16 +9,17 @@
 
 <p>O código para o projeto pode ser modificado e permite reduzir a velocidade e dificuldade do jogo.</p>
 
-***
+</br>
 
-<h3>Elementos</h3>
+## Elementos
+
 <p>Este programa foi utilizado para testes e estudos sobre os elementos que compõem o sistema do jogo, são eles: </p>
 
 - Placa Arduino Nano; 
 - Matrix de LED 8x8; 
 - Joystick analógico.
 
-***
+</br>
 
 <p>Para entender melhor sobre o circuito e funcionamento do código, <a href="https://drive.google.com/file/d/1cgFfdw808odiAxEhuP3ZNBjo42-PkIBf/view?usp=sharing">clique aqui. 🎥</a> </p>
 
