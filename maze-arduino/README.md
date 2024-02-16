@@ -1,16 +1,16 @@
-<h1>Maze Game 🎮</h1>
+# Maze Game 🎮
 
-<h3>Projeto</h3>
+## Projeto
 
 <p>O mini-jogo, construído com materiais recicláveis e elementos de hardware, simula um pequeno labirinto, que tem como vencedor o jogador que conseguir levar a bolinha ao outro lado do labirinto (chegada), movimentando a estrutura com um joystick.</p>
 
 <p>O jogo possui algumas dificuldades acerca da movimentação, os problemas são encontrados na estrutura do labirinto e na programação dos servomotores, que devem ser trabalhados futuramente.</p>
 
-***
+</br>
 
-<h3>Elementos</h3>
+## Elementos
 
-<h4>Hardware 🔌</h4>
+### Hardware 🔌
 
 - Placa Arduino Nano
 - Cabos Jumper
@@ -18,25 +18,26 @@
 - Servo Motores (2x)
 - Protoboard
 
-<h4>Recicláveis ♻️</h4>
+### Recicláveis ♻️
 
 - Caixa de papelão (20x20)
 - Peteca (bolinha)
 - Papel (forro da caixa)
 - Fita
 
-***
+</br>
 
-<h4>Circuito 💡</h4>
+### Circuito 💡
 <a align=center href="https://content.instructables.com/FIK/XGAT/JV0SNCH5/FIKXGATJV0SNCH5.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=04cae08da3bf348303f4fdb8d9275900"><img src="/maze-arduino/maze-circuit.webp"/></a>
 
-***
+</br>
 
 <p align=center>Neste projeto, foram possíveis análises e melhor conhecimento sobre servomotores e o funcionamento do joystick analógico, que podem ser utilizados em novos trabalhos em breve.</p>
 
-***
+</br>
 
-<h4>Referências </h4>
+### Referências
+
 <p><a href="https://www.instructables.com/Arduino-Marble-Maze-Labyrinth/">Projeto original e Código fonte - Arduino Marble Cardboard Maze Labyrinth.</a> ✔️</p>
 
 
