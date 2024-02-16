@@ -6,6 +6,8 @@
 
 <p>O jogo possui algumas dificuldades acerca da movimentação, os problemas são encontrados na estrutura do labirinto e na programação dos servomotores, que devem ser trabalhados futuramente.</p>
 
+***
+
 <h3>Elementos</h3>
 
 <h4>Hardware 🔌</h4>
@@ -23,18 +25,16 @@
 - Papel (forro da caixa)
 - Fita
 
-</br>
+***
 
 <h4>Circuito 💡</h4>
 <a align=center href="https://content.instructables.com/FIK/XGAT/JV0SNCH5/FIKXGATJV0SNCH5.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=04cae08da3bf348303f4fdb8d9275900"><img src="/maze-arduino/maze-circuit.webp"/></a>
 
-</br>
-</br>
-<p>Neste projeto, foram possíveis análises e melhor conhecimento sobre servomotores e o funcionamento do joystick analógico, que podem ser utilizados em novos trabalhos em breve.</p>
+***
 
+<p align=center>Neste projeto, foram possíveis análises e melhor conhecimento sobre servomotores e o funcionamento do joystick analógico, que podem ser utilizados em novos trabalhos em breve.</p>
 
-
-</br>
+***
 
 <h4>Referências </h4>
 <p><a href="https://www.instructables.com/Arduino-Marble-Maze-Labyrinth/">Projeto original e Código fonte - Arduino Marble Cardboard Maze Labyrinth.</a> ✔️</p>

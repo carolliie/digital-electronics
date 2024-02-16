@@ -9,6 +9,8 @@
 
 <p>Os objetos principais para o desenvolvimento dos projetos são os microcontroladores (Arduino, Raspberry e outras variações de placas), além de pequenas peças de hardware, que contribuem para o funcionamento dos circuitos planejados.</p>
 
+***
+
 <h3>Projetos</h3>
 
 <h4>Snake Game - Arduino 🐍</h4>
@@ -17,9 +19,12 @@
 <h4>Integração entre Arduino Uno R4 com RFID 📟</h4>
 <p>A partir do reconhecimento de uma tag declarada no RFID, utiliza-se a matriz de LED da placa Arduino R4 como display para o resultado da verificação via RFID.</p>
 
+<h4>Maze Game - Arduino 🚩</h4>
+<p>Jogo em que, em um labirinto construído com materiais recicláveis, o jogador deve movimentar a estrutura e a pequena bolinha, para chegar ao outro lado (chegada).</p>
 
+***
 
-<p></br>Demais projetos serão inclusos no repositório ao longo do semestre. </p>
-<p>Para ver mais, verifique os outros repositórios no meu GitHub. 💢</p> 
+<p>Demais projetos serão inclusos no repositório ao longo do semestre. </p>
+<p>Para ver mais, verifique os outros repositórios em meu GitHub. 💢</p> 
 
-<p align=center><img loading="lazy" src="https://i.pinimg.com/originals/c2/d0/01/c2d001a4799453ba6060a0433338810b.gif"/></p>
+<img loading="lazy" src="https://i.pinimg.com/originals/c2/d0/01/c2d001a4799453ba6060a0433338810b.gif"/>
